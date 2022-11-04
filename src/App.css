@@ -1,0 +1,15 @@
+body{
+  background-color: darkgray;
+}
+.but1{
+  background-color: chartreuse;
+}
+.but2{
+  background-color: orangered;
+  margin-left: 10px;
+}
+#btn1{
+  position: relative;
+  left: 450px;
+  bottom: 50px;
+}
